@@ -1,0 +1,55 @@
+[33mcommit 75d08078ce3001c52560afc6caabf0117acba0b3[m
+Merge: cc3bc91 7b0794a
+Author: Balazsi Robert-Sandor 1 <robika.balazsi@yahoo.com 1>
+Date:   Fri Oct 28 13:04:47 2016 +0300
+
+    Conflict resolved
+
+[33mcommit cc3bc91ab8df50adde862cbd4ee087b5d4e3f815[m
+Author: Balazsi Robert-Sandor 1 <robika.balazsi@yahoo.com 1>
+Date:   Fri Oct 28 13:01:20 2016 +0300
+
+    Mod. b.txt
+
+[33mcommit 7b0794a4019770ee42f74de13064949e36c54be1[m
+Author: Balazsi Robert-Sandor 2 <robika.balazsi@yahoo.com 2>
+Date:   Fri Oct 28 12:57:44 2016 +0300
+
+    Mod. 2 b.txt confilct
+
+[33mcommit d24b5512b2b9efaf4c80b13c2f4f272ef4f9e9f2[m
+Author: Balazsi Robert-Sandor 1 <robika.balazsi@yahoo.com 1>
+Date:   Fri Oct 28 12:54:13 2016 +0300
+
+    Mod. 1 b.txt confilc
+
+[33mcommit 0553a15dc8c2e1f9d4de2cf08693aa6f12b7f55f[m
+Merge: 2a49dff f3a502c
+Author: Balazsi Robert-Sandor 1 <robika.balazsi@yahoo.com 1>
+Date:   Fri Oct 28 12:52:30 2016 +0300
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+[33mcommit f3a502cace5fbba16943e7be63edade9312f4d43[m
+Author: Balazsi Robert-Sandor 2 <robika.balazsi@yahoo.com 2>
+Date:   Fri Oct 28 12:48:47 2016 +0300
+
+    Mod. b.txt
+
+[33mcommit 2a49dffb24482b440127e88cc102d6395470611e[m
+Author: Balazsi Robert-Sandor 1 <robika.balazsi@yahoo.com 1>
+Date:   Fri Oct 28 12:46:39 2016 +0300
+
+    Mod. a.txt
+
+[33mcommit 18f02f351fd579e31e99d4be377c4c9bf359f4be[m
+Author: Balazsi Robert-Sandor <robika.balazsi@yahoo.com>
+Date:   Fri Oct 28 12:43:20 2016 +0300
+
+    a.txt b.txt
+
+[33mcommit 5cdc0f9af7309f5e26385f36e323c0f7a076b723[m
+Author: Balazsi Robert-Sandor <robika.balazsi@yahoo.com>
+Date:   Fri Oct 28 12:17:21 2016 +0300
+
+    My first commit
